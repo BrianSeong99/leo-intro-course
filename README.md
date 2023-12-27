@@ -18,4 +18,6 @@ All instructions are showed in below `Content` section.
   - [Create New Project](./1-unit-one/2-create-new-project.md)
   - [Basic Data Types & Functions](./1-unit-one/3-basic-data-types-and-functions.md)
   - [Create and Test your Token](./1-unit-one/4-create-and-test-your-token.md) 
-  - [Deployment](./1-unit-one/5-deployment.md)
+  - [Deployment](./unit-1/5-deployment.md)
+
+- [Unit Two](./unit-2/README.md): 
