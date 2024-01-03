@@ -1,20 +1,22 @@
 # leo-intro-course
 
-An introductory course to leo language.
+**Welcome to the "leo-intro-course" repo, your gateway to mastering the Leo language and exploring the Aleo ecosystem.** 
 
-### For *Learn&Earn* Workshop Participants
+This repo is specially designed for developers interested in developing on Aleo blockchain, but it's also a fantastic resource for anyone interested in blockchain and Leo programming.
 
-Please fork it first to your own github account, clone it to your local device, then start working on finishing the course.
+Our Repo is continuously evolving. Upcoming tasks include completing more advanced units, recording instructional videos, and compiling a comprehensive list of FAQs and collection of all Aleo workshops developed by our communities.
 
-Make sure you push everything to your forked repo to show that you have finished the workshops.
+**We're excited to have you here and can't wait to see what you build with Leo!**
 
-All instructions are showed in below `Leo from 0 to Hero - Unit One`.
+#### *For in person Learn & Earn Workshop Participants*
+
+Please fork it first to your own github account, clone it to your local device, then start working on finishing Unit One of the course. Make sure you push everything to your forked repo to show that you have finished the workshops. All instructions are showed in below `Leo from 0 to Hero - Unit One`.
 
 ## Leo from 0 to Hero
 
 ### Preliminaries
 
-- [What is Aleo?]()
+- [[TODO] What is Aleo?]()
 
 ### Basics
 
@@ -32,46 +34,60 @@ All instructions are showed in below `Leo from 0 to Hero - Unit One`.
   - [Spend, Transfer, Interact with Aleo Credits]()
   - [Deploy and Setup your DEX programs]()
 
-- [Unit Three](./unit-3/README.md): Simple NFT Marketplace in Leo
+- [[TODO] Unit Three](./unit-3/README.md): Simple NFT Marketplace in Leo
   - [String Manipulations]()
   - [Timelock]()
   - [Random Number]()
-  - [...]()
 
-- [Unit Four](./unit-4/README.md): Create React App for your NFT Marketplace
+- [[TODO] Unit Four](./unit-4/README.md): Create React App for your NFT Marketplace
   - [Setup Environment]()
-  - [...]()
 
 
 ### Advanced
 
-- [Multisig Admin]()
-- [Aleo]()
-- [zkML]()
-- [zPass]()
-- [...]()
+- [[TODO] Multisig Admin]()
+- [[TODO] Aleo Lang]()
+- [[TODO] zkML]()
+- [[TODO] zPass]()
 
-## Aleo Developer Resources
+### More Workshops
 
-- [Aleo Workshop Examples](https://github.com/AleoHQ/workshop)
+- [Aleo Workshop Examples](https://github.com/AleoHQ/workshop): 
+
+
+## Aleo Developer Hub
+
+### Aleo Tools
 - [Aleo Developer Documentations](https://developer.aleo.org/getting_started/)
-- [ARC Discussion](https://github.com/AleoHQ/ARCs/discussions/categories/arcs)
 - [SnarkOS Repo](http://snarkos.org/)
 - [SnarkVM Repo](https://snarkvm.org/)
 - [Leo CLI Repo](https://github.com/AleoHQ/leo)
 - [Aleo Javascript/Typescript SDK](https://developer.aleo.org/sdk/typescript/overview)
-- [Create Aleo App SDK](https://developer.aleo.org/sdk/create-aleo-app/installation)
 - [Aleo WASM SDK](https://developer.aleo.org/sdk/wasm/installation)
 - [Aleo Python SDK](https://developer.aleo.org/sdk/python/aleo-sdk)
+- [Create Aleo App SDK](https://developer.aleo.org/sdk/create-aleo-app/installation)
+- [Aleo Explorer](https://www.aleo.network/)
+- [Leo Playground](https://play.leo-lang.org/)
+
+### Aleo Developer Communities
+
+- [ARC Discussion](https://github.com/AleoHQ/ARCs/discussions/categories/arcs)
+- [Aleo Discord](https://discord.gg/aleo)
+- [Aleo X.com](https://twitter.com/aleohq)
+
+### Aleo Resources
+
+- [Aleo Grants](https://aleo.org/grants/)
 
 ## TODO
 
-- [ ] Write an Introduction of this page
+- [x] Write an Introduction of this page
 - [ ] Add a quick explaining piece/workshop/article to introduce leo and how aleo blockchain works.
 - [ ] Finish making Unit 1
 - [ ] Finish making Unit 2
 - [ ] Finish making Unit 3
 - [ ] Finish making Unit 4
+- [ ] Record Videos for each Unit
 - [ ] Add Multisig Admin Example
 - [ ] Add zkML Example
 - [ ] Add zPass Example
