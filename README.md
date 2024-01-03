@@ -51,6 +51,18 @@ All instructions are showed in below `Leo from 0 to Hero - Unit One`.
 - [zPass]()
 - [...]()
 
+## Aleo Developer Resources
+
+- [Aleo Workshop Examples](https://github.com/AleoHQ/workshop)
+- [Aleo Developer Documentations](https://developer.aleo.org/getting_started/)
+- [ARC Discussion](https://github.com/AleoHQ/ARCs/discussions/categories/arcs)
+- [SnarkOS Repo](http://snarkos.org/)
+- [SnarkVM Repo](https://snarkvm.org/)
+- [Leo CLI Repo](https://github.com/AleoHQ/leo)
+- [Aleo Javascript/Typescript SDK](https://developer.aleo.org/sdk/typescript/overview)
+- [Create Aleo App SDK](https://developer.aleo.org/sdk/create-aleo-app/installation)
+- [Aleo WASM SDK](https://developer.aleo.org/sdk/wasm/installation)
+- [Aleo Python SDK](https://developer.aleo.org/sdk/python/aleo-sdk)
 
 ## TODO
 
