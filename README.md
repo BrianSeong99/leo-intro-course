@@ -78,12 +78,13 @@ Please fork it first to your own github account, clone it to your local device, 
 ### Aleo Resources
 
 - [Aleo Grants](https://aleo.org/grants/)
+- [Awesome Aleo](https://github.com/howardwu/awesome-aleo)
 
 ## TODO
 
 - [x] Write an Introduction of this page
-- [ ] Add a quick explaining piece/workshop/article to introduce leo and how aleo blockchain works.
-- [ ] Finish making Unit 1
+- [ ] Add a quick explaining piece/workshop/article to introduce leo and how Aleo blockchain works.
+- [x] Finish making Unit 1
 - [ ] Finish making Unit 2
 - [ ] Finish making Unit 3
 - [ ] Finish making Unit 4
