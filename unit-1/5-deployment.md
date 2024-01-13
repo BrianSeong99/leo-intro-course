@@ -4,7 +4,7 @@
 Create a bash script named `deploy.sh` outside of the token project directory and copy the following into the file
 
 ```bash
-PROGRAM_ID="token_1657"
+PROGRAM_ID="<Your Token Project Name>"
 
 snarkos developer deploy \
 --private-key <PRIVATEKEY> \
