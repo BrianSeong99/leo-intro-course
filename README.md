@@ -10,7 +10,7 @@ Our Repo is continuously evolving. Upcoming tasks include completing more advanc
 
 #### *For in person Learn & Earn Workshop Participants*
 
-Please fork it first to your own github account, clone it to your local device, then start working on finishing Unit One of the course. Make sure you push everything to your forked repo to show that you have finished the workshops. All instructions are showed in below `Leo from 0 to Hero - Unit One`.
+Please fork it first to your own github account, clone it to your local device, then start working on finishing Unit One of the course. Make sure you push everything to your forked repo to show that you have finished the workshops. All instructions are showed in below [`Leo from 0 to Hero - Unit One`](### Basics).
 
 ## Leo from 0 to Hero
 
