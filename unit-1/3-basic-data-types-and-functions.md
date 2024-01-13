@@ -16,7 +16,7 @@ This is more of a cheat sheet of basic data types and functions that we will be 
 
 ## Function Types
 
-- `transition`: Your code for offchain computation.
+- `transition`: Your code for offchain computation. Describe the change of record's states.
 - `finalize`: Your code for onchain computation. Will be ran right after the transition function execution offchain. When declaring it in Leo program, it must be immediately follow a transition function, and must have the same name.
 - `function`: Helper function, can only be called within transition, finalize, or helper function.
 - `inline`: can only be called within transition, finalize, helper, or inline function.
