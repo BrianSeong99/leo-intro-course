@@ -61,11 +61,11 @@ In the ./inputs/project_name.in file, we need to define the inputs for our progr
 ```
 // The program input for deploy_workshop/src/main.leo
 [mint]
-balance: u32 = 100u32;
+amount: u32 = 100u32;
 
 [transfer]
 receiver: address = <recipient address>;
-amount: u32 = 10u32;
+transfer_amount: u32 = 10u32;
 input: Token = Token {
   owner: <aleo...>,
   balance: 100u32,
