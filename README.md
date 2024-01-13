@@ -42,7 +42,6 @@ Please fork it first to your own github account, clone it to your local device, 
 - [[TODO] Unit Four](./unit-4/README.md): Create React App for your NFT Marketplace
   - [Setup Environment]()
 
-
 ### Advanced
 
 - [[TODO] Multisig Admin]()
@@ -53,7 +52,6 @@ Please fork it first to your own github account, clone it to your local device, 
 ### [TODO] More Workshops
 
 - [Aleo Workshop Examples](https://github.com/AleoHQ/workshop): 6 examples projects that were built to demonstrate how to develop programs using Leo Language.
-
 
 ## Aleo Developer Hub
 

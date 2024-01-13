@@ -9,7 +9,7 @@ Your goal in this Unit is to finish setup all the Environment Setups and Deploy 
 - Follow the tutorials inside `1-unit-one` folder
 - Please take screenshots of all of your progress described below and add them to list below. This will be used to check your workshop completion. 
 
-TODOs:
+## TODO
 - (Example, replace the image with your own) Proof of `leo` cli installation:
   
   ![leo Installation](./pics/leo-installation.png)
