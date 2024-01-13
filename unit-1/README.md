@@ -8,8 +8,6 @@ Your goal in this Unit is to finish setup all the Environment Setups and Deploy 
 - Fork this repository under your own github account
 - Follow the tutorials inside `1-unit-one` folder
 - Please take screenshots of all of your progress described below and add them to list below. This will be used to check your workshop completion. 
-- Once finished, submit your info to the google form shared during the workshop.
-- You will then hear back from us after you submit the google form.
 
 TODOs:
 - (Example, replace the image with your own) Proof of `leo` cli installation:
