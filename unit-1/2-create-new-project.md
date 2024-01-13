@@ -39,8 +39,6 @@ To learn more about the Aleo Project Interactions, check out [here](https://deve
 ├── build # Folder for all built `Aleo` files and manifest file.
 │   ├── main.aleo # `.leo` file will be built into `.aleo`
 │   └── program.json # program description file
-├── inputs # Folder for all input definitions
-│   └── token_custom_name.in # inputs for every functions when testing
 ├── program.json # program description file
 └── src # Folder for all Program source codes
     └── main.leo # define your program logic here
