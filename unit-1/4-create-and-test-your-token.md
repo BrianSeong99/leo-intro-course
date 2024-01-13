@@ -55,33 +55,25 @@ transition transfer(receiver: address, transfer_amount: u32, input: Token) -> (T
 
 ## Test Program
 
-### Define input for testing
-In the ./inputs/project_name.in file, we need to define the inputs for our program. For this demo we will be using the following inputs:
-
-```
-// The program input for deploy_workshop/src/main.leo
-[mint]
-amount: u32 = 100u32;
-
-[transfer]
-receiver: address = <recipient address>;
-transfer_amount: u32 = 10u32;
-input: Token = Token {
-  owner: <aleo...>,
-  balance: 100u32,
-  _nonce: <just paste the one from terminal>
-};
-```
-
-Remember to replace:
-- recipient address field to actual address of the recipient.
-- input token record should be the one that is returned after you minted. 
-- the record logged on terminal usually has ".private", ".public" keywords after all properties of the record. Those are just indicators to show whether certain properties of the record is public or private.
-
 ### [screenshot required] Test Mint function
 
-Run `leo run mint` to test the mint function, you can also specify the amount of token you want to mint in cmd, `leo run mint 1000u32`. If you don't include the parameter, then leo cli will go to input file to fetch inputs.
+First Test Mint Function.
+```bash
+leo run mint 100u32
+```
+
+The output should be a record of new 100 tokens.
 
 ### [screenshot required] Test Transfer function
 
-Run `leo run transfer` to test the transfer function.
+Then go ahead and test Transfer Function, let's transfer 10 tokens to other address.
+```bash
+leo run transfer <recipient's address> 10u32 "<Token Record>"
+```
+
+Then the output should be two record where 10 tokens are owned under recipient's address, and remaining 90 tokens are owned by the original owner.
+
+Notes:
+- Remember to replace <recipient's address> field to actual address of the recipient.
+- input token record should be the one that is returned after you minted. 
+- the record logged on terminal usually has ".private", ".public" keywords after all properties of the record. Those are just indicators to show whether certain properties of the record is public or private.
