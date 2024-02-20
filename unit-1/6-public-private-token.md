@@ -1,6 +1,6 @@
 # 6 Token standard for public and private usage
 
-In previous units, we have covered a simple token standard that supports mint and transfer function for private usage. But what if you want to do public transfers and make your balance of a token public?
+In previous sections, we have covered a simple token standard that supports mint and transfer function for private usage. But what if you want to do public transfers and make your balance of a token public?
 
 Here we will introduce a more comprehensive token design example that supports both public actions, private actions, and action that converts balances from public to private, and vice versa.
 
@@ -142,9 +142,3 @@ finalize transfer_private_to_public(public receiver: address, public amount: u64
     let receiver_amount: u64 = Mapping::get_or_use(account, receiver, 0u64);
     Mapping::set(account, receiver, receiver_amount + amount);
 }
-
-## Test && Deploy
-
-### Test all functions
-
-### Deploy on Testnet

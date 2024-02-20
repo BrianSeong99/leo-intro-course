@@ -1,14 +1,12 @@
-# Unit One
+# Unit Two
 
 Build your first DEX on Aleo!
 
-Your goal in this Unit is to build a dex
+Your goal in this Unit is to build a dex where it can do swaps without revealing the owner!
 
 ## Introduction
 
 How does a DEX work?
-
-
 
 
 
