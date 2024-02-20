@@ -8,10 +8,6 @@ Our Repo is continuously evolving. Upcoming tasks include completing more advanc
 
 **We're excited to have you here and can't wait to see what you build with Leo!**
 
-#### *For in person Learn & Earn Workshop Participants*
-
-Please fork it first to your own github account, clone it to your local device, then start working on finishing Unit One of the course. Make sure you push everything to your forked repo to show that you have finished the workshops. All instructions are showed in below [`Leo from 0 to Hero - Unit One`](#markdown-header-basics).
-
 ## Leo from 0 to Hero
 
 ### Preliminaries
@@ -29,6 +25,7 @@ Please fork it first to your own github account, clone it to your local device, 
   - [CHALLENGE: Build your own ARC20!](./unit-1/6-CHALLENGE.md)
 
 - [Unit Two](./unit-2/README.md): Make a simple DEX in Leo
+  - 
   - [Offchain & Onchain Executions]()
   - [Working with Private/Public Record]()
   - [Spend, Transfer, Interact with Aleo Credits]()

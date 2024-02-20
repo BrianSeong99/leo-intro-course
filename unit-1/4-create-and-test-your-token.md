@@ -16,7 +16,9 @@ Define a token struct with an owner and balance
 
 ```leo
 record Token {
+    // The token owner, any record must be defined with the `owner` field.
     owner: address,
+    // Token balance of the user.
     balance: u32,
 }
 ```

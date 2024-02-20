@@ -1,4 +1,4 @@
-# 6 CHALLENGE for Unit One
+# 7 CHALLENGE for Unit One
 
 ## Introduction
 There has been tons of discussion about what should be included for ARC20 design, for reference please check out [here](https://github.com/AleoHQ/ARCs/discussions/42).
